@@ -1,2 +1,2 @@
 # iplist
-Simple program to list interface , IP and netmask using Golang
+Simple program to list interface , IP and netmask using Golang "net" package
